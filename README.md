@@ -1,7 +1,7 @@
-<h1 align="center">
-  <img alt="Titulo do Projeto" title="Titulo do Projeto" src="https://github.com/vagnernerves/be-the-hero/blob/master/frontend/src/assets/bethehero_logo.png" />
-</h1>
-
+<h1 align="center">Titulo do Projeto</h1>
+<div align="center">
+<img width="500" height="350" title="" src="https://user-images.githubusercontent.com/48605430/201456229-ddd661ac-6a0e-4f04-9cdc-9e7ab15d6382.svg" />
+</div>
 Write here what the project is about.
 🚧 Project under construction 🚧
 
@@ -9,7 +9,7 @@ Write here what the project is about.
 
 Layout developed by [Name](https://www.instagram.com/urlName/)
 
-[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/files)
+[![Layout in Figma](https://github.com/skmonsterr/default-readme/blob/master/assets/layout-in-figma.svg)](https://www.figma.com/files)
 
 ## 🎥 Implementation Video
 
@@ -82,7 +82,7 @@ Start the server
 
 ## 📝 Routes
 
-[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link)
+[![Run in Postman](https://github.com/skmonsterr/default-readme/blob/master/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link)
 
 ## 🌎 License
 
